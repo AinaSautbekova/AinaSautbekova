@@ -1,4 +1,7 @@
 ### Hi there 👋 my name is Aina Sautbekova, I am a Software QA Automation Engineer 
+### 🔭 I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
+### 🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
+### 📫How to find me:
 
 
 <!--
