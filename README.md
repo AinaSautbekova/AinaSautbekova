@@ -1,11 +1,13 @@
 ### Hi there 👋 my name is Aina Sautbekova, I am a Software QA Automation Engineer 
 ### About me
 - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
-- 🌱 I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.                                                                                                                                                                                   
+- 🌱 I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
+- 📑 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
+- 🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.                                                                                                                                                                                   
 - :mailbox:How to find me:<div id="badges">
 
 <a href="https://www.linkedin.com/in/aina-sautbekova/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg)" alt="LinkedIn Badge"/>
   </a>
   
   
