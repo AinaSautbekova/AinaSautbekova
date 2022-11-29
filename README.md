@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Aina Sautbekova, I am a Software QA Automation Engineer 
+
 
 <!--
 **AinaSautbekova/AinaSautbekova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
