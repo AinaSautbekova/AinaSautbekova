@@ -7,8 +7,8 @@
 - :mailbox:How to find me:<div id="badges">
 
 <a href="https://www.linkedin.com/in/aina-sautbekova/">
-  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg)" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
   
   
   
